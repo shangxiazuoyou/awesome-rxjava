@@ -13,3 +13,7 @@
 - [RxJava系列6(从微观角度解读RxJava源码)](https://zhuanlan.zhihu.com/p/22338235)
 
 - [RxJava系列7(最佳实践)](https://zhuanlan.zhihu.com/p/23108381)
+
+- [给初学者的RxJava2.0教程(一)](https://juejin.im/post/5848d96761ff4b0058c9d3dc)
+
+- [给初学者的RxJava2.0教程(二)](https://juejin.im/post/5848dd11b123db0066030123)
